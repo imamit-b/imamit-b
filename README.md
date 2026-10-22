@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **amitbarman811@gmail.com**
 
-- 📄 Know about my experiences [https://your-website-link.com](https://my-website-link.com)  <!-- Replace with your actual website link -->
+- 📄 Know about my experiences and read my blog at [https://imamit-b.github.io](https://imamit-b.github.io)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imamit-b&show_icons=true&locale=en&layout=compact" alt="imamit-b" /></p>
 
